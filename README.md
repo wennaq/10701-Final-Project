@@ -1,4 +1,6 @@
-# 10701-Final-Project yezheng, ziyanl, wennaq
+# 10701-Final-Project 
+
+yezheng, ziyanl, wennaq
 Sentiment Analysis: Predict Yelp Ratings from User Reviews
 
 A repository for CMU 10701 Machine Learning Project.
